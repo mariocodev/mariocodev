@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi, I’m @mariocodev <img src="https://komarev.com/ghpvc/?username=mariocodev&label=Profile%20views&color=0e75b6&style=flat" alt="mariocodev" /></h1>
+<h1 align="center"> 👋 Hi, I’m @mariocodev</h1>
 
 <div align="center">
   
@@ -20,3 +20,7 @@
   </td>
 </tr>
 </table>
+
+___
+
+<div align="right"><img src="https://komarev.com/ghpvc/?username=mariocodev&label=Profile%20views&color=0e75b6&style=flat" alt="mariocodev" /></div>
